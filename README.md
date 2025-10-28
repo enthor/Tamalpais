@@ -13,7 +13,7 @@ This project represents a unique, ongoing experiment in collaborative fiction, w
 
 The Premise
 
-Tamalpais follows Roy, a sword-swinging legend from a forgotten past, who is thrust into a chaotic 21st-century San Francisco Bay Area by the enigmatic goddess Tamapais. He finds love, purpose, and a massive, instant family that becomes the reluctant vanguard in a spiritual war against the forces of self-interest and greed.
+Tamalpais follows Roy, a sword-swinging legend from a forgotten past, who is thrust into a chaotic 21st-century San Francisco Bay Area by the enigmatic goddess Tamalpais. He finds love, purpose, and a massive, instant family that becomes the reluctant vanguard in a spiritual war against the forces of self-interest and greed.
 
 
 The Rules of the Road (or Lack Thereof)
@@ -27,7 +27,7 @@ We're just getting started. The core of the series lies in these major, unresolv
 
  * Tamalpais: Goddess, Engineer, or Con Artist? Is the Guardian of Mount Tamalpais a genuine deity, a hyper-advanced scientist, or just a very, very old woman whose best trick is masterful persuasion and a great poker face?
 
- * Roy’s Lines vs. George’s Sass: The Old Hero, Roy, has significantly fewer lines of dialogue than his psychic cat, George. Will Roy ever have his day in the narrative sun, or is his dharma simply to be the handsome, sword-swinging consort while the women and pets run the show?
+ * Roy's Lines vs. George's Sass: The Old Hero, Roy, has significantly fewer lines of dialogue than his psychic cat, George. Will Roy ever have his day in the narrative sun, or is his dharma simply to be the handsome, sword-swinging consort while the women and pets run the show?
 
  * The Romantic Quest of George: Will George the Bobcat-Sized Tabby find a mate worthy of her intelligence (and her girth)? Romance is afoot, even for the furry diplomatic corps.
 
